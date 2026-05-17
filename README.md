@@ -1,6 +1,7 @@
 
 ## CVE
 
+The Common Vulnerabilities and Exposures (CVE) system, originally Common Vulnerability Enumeration, provides a reference method for publicly known information-security vulnerabilities and exposures.
 
 >**Note 2026-2-17 Adding Additional day of processing for date normalization to addreess potential inconsistencies**
 > New Date Normalization schedule: (2/16/26 - 2/28/26)
@@ -110,13 +111,7 @@ Please use one of the following:
 - [Report repository and download file issues](https://github.com/CVEProject/cvelistV5/issues) (via the cvelistV5 repository Issue Tracker on GitHub)
 - [Report issues with the content of a CVE Record](https://cveform.mitre.org/) (via the CVE Program Request Web Forms) 
 
-## Pull Requests Not Allowed 
 
-This repository contains CVE Records published by CVE Program partners. It does not accept pull requests.
-
-## Cloning this Repository
-
-You may clone the repository using [git clone](https://github.com/git-guides/git-clone). However, pull requests will not be accepted. 
 
 ## Help
 
